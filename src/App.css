@@ -1,38 +1,100 @@
-.App {
-  text-align: center;
+.main-container{
+  margin: 70px;
+  border: 5px outset gainsboro;
+  border-radius: 30px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.aluno-container{
+  width: 100%;
+  max-width: 1300px;
+  padding: 5 10px;
+  margin: 30px auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.aluno-container h3{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  font-weight: bold;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.aluno-container header{
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+.aluno-container header img{
+  width: 80px;
+}
+
+.aluno-container header button{
+  height: 50px;
+  width: 200px;
+  border-radius: 5px;
+  border: 1px solid #DCDCE6;
+  background: black;
+  opacity: 0.9;
+  color: white;
+  margin-left: 16px;
+  transition: border-color 0.5s;
+}
+
+.aluno-container header button:hover{
+  border-color: #510bac;
+  background-color: #510bac;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.modalAlunos{
+  display: flex;
+  align-items: center;
+  border: 5px solid darkorchid;
+  border-radius: 10px;
+  color: black;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.modalAlunosBody{
+  background: gainsboro;
+}
+
+.modalAlunosBody input{
+  border: 2px solid black;
+}
+
+.modalAlunosBody input:focus{
+  border: 3px solid #9400D3;
+}
+
+.modalAlunos img{
+  width: 20px;
+  margin-left: 5px;
+  font-weight: bold;
+}
+
+.rodape p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  color: white;
+  margin-right: 80px;
+  text-align: right;
+  font-style: italic;
+}
+
+table, th, td{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 20px;
+  text-align: center;
+}
+
+th{
+  font-size: 20px;
+  font-family: sans-serif;
+  color: black;
+}
+
+td{
+  color: floralwhite;
+  font-family: sans-serif;
+  font-size: 15px;
 }
