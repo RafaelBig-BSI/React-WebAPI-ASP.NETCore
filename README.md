@@ -34,6 +34,9 @@ npm install axios
 npm start
 ```
 
+## Configurar baseUrl 
+* No seu aplicativo React, vá em <strong>App.js</strong> localizado dentro da pasta <strong>/src</strong> e localize a variável <strong>baseUrl</strong>
+* É preciso informar qual a sua <strong>porta</strong> localhost e para descobri-la abra o arquivo <strong></strong>
 # :hammer: Funcionalidades
 
 
