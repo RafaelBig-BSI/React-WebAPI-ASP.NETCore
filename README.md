@@ -5,7 +5,7 @@ Projeto <strong>Web API ASP.NET (.NET 5.0) + React</strong> que realiza o gerenc
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219459633-fbe0a910-0287-4f46-9ec3-0eaf1da53b87.png"/> Organização
 Utilizei como organização a criação de dois projetos onde um é destinado para o front-end e outro para o back-end. Para o front-end a tecnologia <strong>React.js</strong> foi escolhida para esta aplicação e dediquei a <strong>branch "master"</strong> para incluir as pastas/arquivos do projeto. Em relação ao back-end, foi criado um projeto <strong>Web API ASP.NET Core</strong>, possuindo os endpoints configurados para realizar as rotas da API e o <strong>Entity Framework Core</strong> configurado para mapeamento das entidades no banco de dados <strong>Microsoft SQL Server</strong>. Então, criei uma nova branch chamada de <strong>"backend"</strong> onde está incluso as pastas/arquivos do projeto Web API ASP.NET Core.
 
-# <img height="40" src"https://user-images.githubusercontent.com/84249945/219460250-d0b82cb6-35bb-4395-98e9-b05ce17a9be9.png"/> Como utilizar
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219471082-bba3510e-ee6d-4a6e-bf78-d7afc692043e.png"/> Como utilizar
 Certifique de possuir o <strong>node</strong> instalado previamente. Para obter a versão do node instalado em seu computador, abra o terminal e digite:
 ```bash
 node -v
@@ -39,14 +39,14 @@ npm start
 
 https://user-images.githubusercontent.com/84249945/219433800-5ac08abb-2be8-4ae6-8e28-f49b3943c955.mp4
 
-## Tecnologias utilizadas
+## <img height="40" src="https://user-images.githubusercontent.com/84249945/219471565-77dd520e-41ee-41f8-8fb9-0e259535a867.png"/> Tecnologias utilizadas
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,js,react,nodejs,bootstrap" />
   </a>
 </p>
 
-# Imagens
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219472556-367952b0-d430-495e-87b9-3f4611bdab21.png" />Imagens
 * <strong>Interface Principal</strong>
 <img src="https://user-images.githubusercontent.com/84249945/219422540-4e809422-09c5-42c6-a749-86e0fa0d377d.jpg" />
 <hr>
