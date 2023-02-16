@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISHED&color=GREEN&style=for-the-badge" />
-</p>
 
 # Sobre
 Projeto <strong>Web API ASP.NET (.NET 5.0) + React</strong> que realiza o gerenciamento de alunos onde é possível incluir, alterar e excluir alunos (CRUD) sendo que cada ação é requisitada ao endpoint específico no back-end. As informações dos alunos são salvas no banco de dados <strong>Microsoft SQL Server</strong> utilizando <strong>Entity Framework Core</strong> para mapeamento das entidades.
