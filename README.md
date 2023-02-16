@@ -43,11 +43,11 @@ npm start
 https://user-images.githubusercontent.com/84249945/219433800-5ac08abb-2be8-4ae6-8e28-f49b3943c955.mp4
 
 ## Tecnologias utilizadas
-`ASP.NET Core` 
-`React` 
-`Entity Framework Core` 
-`.NET 5.0` 
-`Swagger API`
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,js,react,nodejs,html,css" />
+  </a>
+</p>
 
 ## Images
 * <strong>Interface Principal</strong>
