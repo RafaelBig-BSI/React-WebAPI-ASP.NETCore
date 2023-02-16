@@ -1,11 +1,11 @@
 
-# Sobre
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219458363-0df46081-95bd-4878-a828-541457541cbd.png"/> Sobre
 Projeto <strong>Web API ASP.NET (.NET 5.0) + React</strong> que realiza o gerenciamento de alunos onde é possível incluir, alterar e excluir alunos (CRUD) sendo que cada ação é requisitada ao endpoint específico no back-end. As informações dos alunos são salvas no banco de dados <strong>Microsoft SQL Server</strong> utilizando <strong>Entity Framework Core</strong> para mapeamento das entidades.
 
-# Organização
+# <img height="40" src="https://user-images.githubusercontent.com/84249945/219459633-fbe0a910-0287-4f46-9ec3-0eaf1da53b87.png"/> Organização
 Utilizei como organização a criação de dois projetos onde um é destinado para o front-end e outro para o back-end. Para o front-end a tecnologia <strong>React.js</strong> foi escolhida para esta aplicação e dediquei a <strong>branch "master"</strong> para incluir as pastas/arquivos do projeto. Em relação ao back-end, foi criado um projeto <strong>Web API ASP.NET Core</strong>, possuindo os endpoints configurados para realizar as rotas da API e o <strong>Entity Framework Core</strong> configurado para mapeamento das entidades no banco de dados <strong>Microsoft SQL Server</strong>. Então, criei uma nova branch chamada de <strong>"backend"</strong> onde está incluso as pastas/arquivos do projeto Web API ASP.NET Core.
 
-# Como utilizar
+# <img height="40" src"https://user-images.githubusercontent.com/84249945/219460250-d0b82cb6-35bb-4395-98e9-b05ce17a9be9.png"/> Como utilizar
 Certifique de possuir o <strong>node</strong> instalado previamente. Para obter a versão do node instalado em seu computador, abra o terminal e digite:
 ```bash
 node -v
