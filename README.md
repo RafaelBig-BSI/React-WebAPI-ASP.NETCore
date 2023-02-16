@@ -1,4 +1,4 @@
 # Como utilizar
-Apenas abra o projeto no Visual Studio e inicie a compilação.
+Abra a pasta do projeto no Visual Studio e inicie a compilação.
 
 # Interface principal
