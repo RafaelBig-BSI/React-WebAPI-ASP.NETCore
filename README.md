@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/84249945/219433800-5ac08abb-2be8-4ae6-
 ## Tecnologias utilizadas
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,js,react,nodejs,html,css" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,js,react,nodejs,bootstrap" />
   </a>
 </p>
 
