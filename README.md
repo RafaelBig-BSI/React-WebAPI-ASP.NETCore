@@ -20,7 +20,9 @@
 * Por fim, aplique <strong>update-database</strong>
 <img src="https://user-images.githubusercontent.com/84249945/219692503-e7043600-6f92-41f8-ab9c-a441bb5f020e.png" />
 
-* Abra o Microsoft SQL Server e fazer um <strong>refresh</strong> que irá aparecer a base de dados criada!
+* Abra o Microsoft SQL Server e faça um <strong>refresh</strong> que irá aparecer a base de dados criada!
+<img src="https://user-images.githubusercontent.com/84249945/219694945-c05427c4-dcff-4624-b643-a558075297c1.png" />
+
 
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219472955-662ddcff-d808-41c3-a3c0-7b467af638b9.png" /> Interface principal
 * Swagger
