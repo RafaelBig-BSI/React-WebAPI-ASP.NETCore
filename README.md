@@ -1,5 +1,6 @@
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219471082-bba3510e-ee6d-4a6e-bf78-d7afc692043e.png"/> Como utilizar
-## Confgurar string de conexão
+
+## <img height="40" src="https://user-images.githubusercontent.com/84249945/219701953-d9aadf6c-065a-4176-8c21-3b13c497f752.png"/> Confgurar string de conexão
 * No arquivo <strong>appsettings.json</strong>, informe o nome da sua máquina onde está em <strong>negrito</strong>: <br/>
 "ConnectionStrings": {
     "DefaultConnection": "Data Source=<strong>nome da sua máquina aqui</strong>;Initial Catalog=AlunosDemoDB;Integrated Security=True;"
@@ -7,7 +8,7 @@
  * Para saber qual é o nome da sua máquina vá em <strong>Configurações -> Sistema -> Sobre</strong>
  * Seguindo esse passo você encontrará o nome da sua máquina em <strong>"Nome do dispositivo"</strong>
 
-## Criar Migrations
+## <img height="40" src="https://user-images.githubusercontent.com/84249945/219701953-d9aadf6c-065a-4176-8c21-3b13c497f752.png"/> Criar Migrations
 * No Visual Studio, vá em <strong>Tools -> NuGet Package Manager -> NuGet Package Manager Console</strong> e adicione uma <strong>migration</strong> como exemplo:
 <img src="https://user-images.githubusercontent.com/84249945/219690437-0934a9a0-25c4-4705-87a2-a1a814708682.png" />
 
