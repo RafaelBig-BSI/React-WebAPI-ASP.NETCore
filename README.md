@@ -1,6 +1,6 @@
 # <img height="40" src="https://user-images.githubusercontent.com/84249945/219471082-bba3510e-ee6d-4a6e-bf78-d7afc692043e.png"/> Como utilizar
 ## Confgurar string de conexão
-* No arquivo <strong>appsettings.json</strong>, informe o nome da sua máquina onde está em <strong>negrito>/strong>: <br/>
+* No arquivo <strong>appsettings.json</strong>, informe o nome da sua máquina onde está em <strong>negrito</strong>: <br/>
 "ConnectionStrings": {
     "DefaultConnection": "Data Source=<strong>nome da sua máquina aqui</strong>;Initial Catalog=AlunosDemoDB;Integrated Security=True;"
   },
