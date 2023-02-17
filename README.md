@@ -34,9 +34,20 @@ npm install axios
 npm start
 ```
 
-## Configurar baseUrl 
+## Configurar a varável baseUrl no React
 * No seu aplicativo React, vá em <strong>App.js</strong> localizado dentro da pasta <strong>/src</strong> e localize a variável <strong>baseUrl</strong>
-* É preciso informar qual a sua <strong>porta</strong> localhost e para descobri-la abra o arquivo <strong></strong>
+* É preciso informar qual a sua <strong>porta</strong> localhost, e para descobri-la abra o projeto <strong>Web API ASP.NET Core</strong> localizado na branch <strong>backend</strong>, na pasta <strong>/Properties</strong> abra o arquivo <strong>launchSettings.json</strong>
+* A sua porta localhost aparecerá onde marquei em <strong>negrito</strong> conforme este exemplo:<br/>
+"$schema": "http://json.schemastore.org/launchsettings.json",<br>
+  "iisSettings": { <br/>
+    "windowsAuthentication": false, <br/>
+    "anonymousAuthentication": true, <br/>
+    "iisExpress": { <br/>
+      "applicationUrl": ..., <br/>
+      "sslPort": <strong>o número de sua porta estará aqui</strong> 44380 <br/>
+    } <br/>
+  }, 
+
 # :hammer: Funcionalidades
 
 
