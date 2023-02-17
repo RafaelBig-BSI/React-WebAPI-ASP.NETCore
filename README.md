@@ -8,7 +8,7 @@
  * Seguindo esse passo você encontrará o nome da sua máquina em <strong>"Nome do dispositivo"</strong>
 
 ## Criar Migrations
-* No Visual Studio, vá em Tools -> NuGet Package Manager -> NuGet Package Manager Console e adicione uma migration como exemplo:
+* No Visual Studio, vá em <strong>Tools -> NuGet Package Manager -> NuGet Package Manager Console</stron> e adicione uma <strong>migration</strong> como exemplo:
 <img src="https://user-images.githubusercontent.com/84249945/219690437-0934a9a0-25c4-4705-87a2-a1a814708682.png" />
 
 * Feito isso, forneça o comando <strong>update-database</strong>
