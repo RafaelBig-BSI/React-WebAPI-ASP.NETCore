@@ -10,7 +10,7 @@ Certifique de possuir o <strong>node</strong> instalado previamente. Para obter 
 ```bash
 node -v
 ```
-## Instalações
+## <img height="40" src="https://user-images.githubusercontent.com/84249945/219701953-d9aadf6c-065a-4176-8c21-3b13c497f752.png"/> Instalações
 * Instalar a pasta <strong>node_modules</strong>
 ```bash
 npm install
@@ -28,13 +28,7 @@ npm install reactstrap
 ```bash
 npm install axios
 ```
-## Iniciar a aplicação
-* Após as instalações, forneça o comando para iniciar a aplicação React
-```bash
-npm start
-```
-
-## Configurar a varável baseUrl no React
+## <img height="40" src="https://user-images.githubusercontent.com/84249945/219701953-d9aadf6c-065a-4176-8c21-3b13c497f752.png"/> Configurar a varável baseUrl no React
 * Abra o VS Code na pasta do seu aplicativo React, vá em <strong>App.js</strong> localizado dentro da pasta <strong>/src</strong> e localize a variável <strong>baseUrl</strong>
 * É preciso informar qual a sua <strong>porta</strong> localhost, e para descobri-la abra o projeto <strong>Web API ASP.NET Core</strong> localizado na branch <strong>backend</strong>, na pasta <strong>/Properties</strong> abra o arquivo <strong>launchSettings.json</strong>
 * A sua porta localhost aparecerá onde marquei em <strong>negrito</strong> conforme este exemplo:<br/>
@@ -51,6 +45,11 @@ npm start
 * Na variável <strong>baseUrl</strong> coloque a sua porta localhost conforme a imagem:
 <img src="https://user-images.githubusercontent.com/84249945/219697105-cf97e113-3f97-4521-b8b2-9fd1dea38f73.png" />
 
+## <img height="40" src="https://user-images.githubusercontent.com/84249945/219703721-e658e16f-fe7a-4a8b-bc90-22d9859c747c.png" /> Iniciar a aplicação
+* Após as instalações e configurações, forneça o comando para iniciar a aplicação React
+```bash
+npm start
+```
 
 # :hammer: Funcionalidades
 
