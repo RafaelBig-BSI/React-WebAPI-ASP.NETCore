@@ -35,7 +35,7 @@ npm start
 ```
 
 ## Configurar a varável baseUrl no React
-* No seu aplicativo React, vá em <strong>App.js</strong> localizado dentro da pasta <strong>/src</strong> e localize a variável <strong>baseUrl</strong>
+* Abra o VS Code na pasta do seu aplicativo React, vá em <strong>App.js</strong> localizado dentro da pasta <strong>/src</strong> e localize a variável <strong>baseUrl</strong>
 * É preciso informar qual a sua <strong>porta</strong> localhost, e para descobri-la abra o projeto <strong>Web API ASP.NET Core</strong> localizado na branch <strong>backend</strong>, na pasta <strong>/Properties</strong> abra o arquivo <strong>launchSettings.json</strong>
 * A sua porta localhost aparecerá onde marquei em <strong>negrito</strong> conforme este exemplo:<br/>
 "$schema": "http://json.schemastore.org/launchsettings.json",<br>
@@ -44,9 +44,13 @@ npm start
     "anonymousAuthentication": true, <br/>
     "iisExpress": { <br/>
       "applicationUrl": ..., <br/>
-      "sslPort": <strong>o número de sua porta estará aqui</strong> 44380 <br/>
+      "sslPort": <strong>o número de sua porta estará aqui</strong><br/>
     } <br/>
   }, 
+
+* Na variável <strong>baseUrl</strong> coloque a sua porta localhost conforme a imagem:
+<img src="https://user-images.githubusercontent.com/84249945/219697105-cf97e113-3f97-4521-b8b2-9fd1dea38f73.png" />
+
 
 # :hammer: Funcionalidades
 
